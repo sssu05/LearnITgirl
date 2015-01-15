@@ -154,3 +154,18 @@ ul.navigation a:focus {
 .hide {
     display: none;
 }
+h3 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 35px;
+	padding-bottom: 15px;
+	}
+h1 { font-family: Oswld;
+	font-weight: bold;
+	}
+#content img { 
+ position: center;
+ }
+
+	
